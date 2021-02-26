@@ -29,6 +29,6 @@ module public_gateway {
 | Name | Description |
 |------|-------------|
 | id | ID of the public gateway |
-| floating\_ip\_id | ID of the floating IP assigned to the gateway |
-| floating\_ip\_address | Address of the floating IP assigned to the gateway |
+| gateway\_ip\_id | ID of the floating IP assigned to the gateway |
+| gateway\_ip\_address | Address of the floating IP assigned to the gateway |
 
